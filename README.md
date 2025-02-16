@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=64FFDA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Code+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
-# ¡Hola! 👋 Soy Artemis
+# ¡Hola! 👋 Soy Joseph Vidaurre
 
 Desarrollador Full Stack apasionado por crear soluciones innovadoras y aprender nuevas tecnologías.
 
@@ -33,9 +33,9 @@ Desarrollador Full Stack apasionado por crear soluciones innovadoras y aprender 
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](tu-link-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2364FFDA.svg?style=for-the-badge&logo=firefox&logoColor=white)](tu-portfolio)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](tu-instagram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-vidaurre-a992292a4/?originalSubdomain=pe)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2364FFDA.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://josephvidaurre.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/josephvissa/)
 
 </div>
 
