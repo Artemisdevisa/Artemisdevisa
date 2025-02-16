@@ -4,7 +4,7 @@
 
 # ¡Hola! 👋 Soy Joseph Vidaurre
 
-Desarrollador Full Stack apasionado por crear soluciones innovadoras y aprender nuevas tecnologías.
+Doctor en Ingeniería de Sistemas | CEO Bajo Cero | Docente e Investigador | Desarrollador Full Stack | Trader.
 
 ## 🛠️ Tecnologías y Herramientas
 
