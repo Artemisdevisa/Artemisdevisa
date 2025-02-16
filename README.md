@@ -41,7 +41,7 @@ Líder en desarrollo tecnológico y educación, comprometido con la innovación 
 Desarrollo Web:      Arquitecturas Avanzadas y Microservicios
 Lenguajes:          Python, JavaScript, Java
 Infraestructura:    Docker, Cloud Computing
-##📫 Conectemos
+## 📫 Conectemos
 
 <div align="center">
   
@@ -52,7 +52,7 @@ Infraestructura:    Docker, Cloud Computing
 </div>
 
 
-##💼 Proyectos Destacados
+## 💼 Proyectos Destacados
 <div align="center">
   <a href="https://github.com/Artemisdevisa/Bootstrap5">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Artemisdevisa&repo=Bootstrap5&title_color=64FFDA&icon_color=64FFDA&text_color=8892B0&bg_color=0D1117&hide_border=true" />
