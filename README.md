@@ -41,3 +41,30 @@ Líder en desarrollo tecnológico y educación, comprometido con la innovación 
 Desarrollo Web:      Arquitecturas Avanzadas y Microservicios
 Lenguajes:          Python, JavaScript, Java
 Infraestructura:    Docker, Cloud Computing
+📫 Conectemos
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=64FFDA)](https://www.linkedin.com/in/joseph-vidaurre-a992292a4/?originalSubdomain=pe)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=64FFDA)](https://josephvidaurre.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=64FFDA)](https://www.instagram.com/josephvissa/)
+
+</div>
+
+
+💼 Proyectos Destacados
+<div align="center">
+  <a href="https://github.com/Artemisdevisa/Bootstrap5">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Artemisdevisa&repo=Bootstrap5&title_color=64FFDA&icon_color=64FFDA&text_color=8892B0&bg_color=0D1117&hide_border=true" />
+  </a>
+  <a href="https://github.com/Artemisdevisa/Python">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Artemisdevisa&repo=Python&title_color=64FFDA&icon_color=64FFDA&text_color=8892B0&bg_color=0D1117&hide_border=true" />
+  </a>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Artemisdevisa&label=Visitas&color=64FFDA&style=flat" alt="Contador de visitas" />
+</div>
+<div align="center">
+  <sub>Desarrollado con ❤️ en Perú</sub>
+</div>
+```
