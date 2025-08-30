@@ -4,7 +4,7 @@
 
 # ¡Hola! 👋 Soy Joseph Vidaurre
 
-Doctor en Ingeniería de Sistemas | CEO Bajo Cero | Docente e Investigador | Desarrollador Full Stack | Trader.
+Ingeniero de Sistemas y Computación | CEO Bajo Cero | Docente e Investigador | Desarrollador Full Stack | Trader.
 
 ## 🛠️ Tecnologías y Herramientas
 
